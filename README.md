@@ -1,88 +1,99 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19660274&assignment_repo_type=AssignmentRepo)
-# Mini-Project (45 marks)
 
-[View Instructions Here](Mini-project.md)
+[Website Link here](https://ricky-t1.github.io/)
 
-[How to use Github / How to submit](https://parsa-rajabi.github.io/CMPT-276/#/labs?id=github-classroom)
+Nielsen’s 10 Usability Heuristics
 
-For this lab, you will include all of your "answers" in this README file. Make sure to cite any sources you use. 
+Visibility of system status
+Match between system and the real world
+User control and freedom
+Consistency and standards
+Error prevention
+Recognition rather than recall
+Flexibility and efficiency of use
+Aesthetic and minimalist design
+Help users recognize, diagnose, and recover from errors
+Help and documentation
 
-## Task 0: Declare your AI Usage
+The goal of this mini-project is to provide you with an opportunity to develop a website based on a similar technology stack that you will be using for your final project. To expand on your github skills and knowledge, you will also be deploying the website through Github Pages.
 
-After you completed this lab, make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to this repository and include the link to PDF in this README file. Note, you must submit this form regardless if you use AI or not. Failure to submit this form will be considered a violation of AI course policy. More details about the AI-usage course policy can be found [here](https://parsa-rajabi.github.io/CMPT-276/#/ai-policy).
+Instructions
+Watch the following video to learn more about Github Pages and deploying your website
+Getting Started with GitHub Pages
+Come up with a simple website idea
+I recommend using this opportunity to create a personal/portfolio website.
+Refer to website rubric/requirements below for more details
+Set up your website repository on Github (hint: the repo name should be your-username.github.io)
+Refer to Github's website to learn more about the steps on how to accomplish this
+Develop a wireframe of your website using a tool we discussed in class
+You're encouraged to use similar tools that you'd be using for your project
+Refer to resources below for guides on how to create a wireframe
+Develop your website using your preferred technology stack
+This could be a great opportunity to learn a new technology stack, to prepare for your class project
+Refer to resources page on canvas/course website for more information
+Deploy with Github Pages
+Refer to Github's website to learn more about the steps on how to accomplish this
+Answer the follow-up questions included in the repository
+Requirements
+Although this mini-project is open-ended, I highly recommend developing a personal website to add more projects to your portfolio which will be helpful for your future job applications.
 
-[Link to AI Usage Disclosure MS Form](https://parsa-rajabi.github.io/CMPT-276/#/ai-policy?id=disclosure-of-ai-use)
+Note: personal websites are meant to be personal. Try to make it unique to you and only share information you're comfortable with. Due to privacy reasons, you can choose to develop another website that still meets the requirements of this mini-project. If you choose to develop another website, please consult with a TA to ensure it meets the requirements of this mini-project.
 
-- You will need to log in with your SFU email to access the form.
+Personal Website
+Your personal website could include some of the following elements (these are just suggestions)
 
-Name the file in the following format: 
+Short bio about who you are + picture
+List of your previous/current projects + links to github repo
+Programming skills and frameworks you're comfortable with (could be combined with the item above)
+Link to professional social media i.e. LinkedIn, Github etc.
+Work experience
+Volunteer experience
+Education
+What you’re passionate about (personal hobbies, interests, etc.)
+Link to resume/CV
+Any other information you'd like to share
+Not sure where to start?
+In case you're not sure where to start, I recommend checking out Scrimba's Frontend Developer Career Path module that wll guide you on web dev basics such as HTML, CSS and Javascript. While most of the content is locked for "subscribers", as a Github student developer, Scrimba offers a free subscription for 1 month.
 
-`Mini_Project_AI_Declaration_FirstName_LastName_StudentID.pdf`
+You are not expected to complete the module as part of this mini-project, but it could be a great resource to get you started on web development.
 
-Example (Mini Project):
+Website Rubric
+[17 marks total] Website Elements (refer to below for more details)
+[17 marks total] Github items (refer to below for more details)
+[4 marks total] Follow-up questions
+[7 marks total] Github Video + Questions
+Website Elements
+[5 marks] Website's wireframe is organize, easy to understand and the provided description matches the wireframe
+[1 mark] Website includes a bio/overview
+[1.5 marks (0.25 each)] Website includes at least 6 hyperlinks to external websites
+[5 marks] Website adheres to all 10 usability heuristics (Nielsen's 10 Usability Heuristics)
+[1 mark] Website has a custom favicon
+[1.5 marks (0.5 mark each)] Website has at least 3 separate sections/tabs with information
+[1.5 marks (0.5 mark each)] Website has at least 3 images with appropriate alt text
+[0.5 mark] Website content is engaging and free of spelling/grammar errors
+Out of Scope
+While this is a great opportunity to learn new technologies, please note that the following are out of scope for this mini-project:
 
-`Mini_Project_AI_Declaration_Parsa_Rajabi_123456789.pdf`
+Responsive design (your website should be accessible on a desktop browser only) e.g. no mobile or tablet support
+SEO optimization
+Web analytics
+Custom domain
+Database integration
+User authentication
+Server-side scripting
+Any other advanced features that are not covered in this course
+Acceptable Technologies for this Mini-Project
+I encourage you to use this opportunity to modify existing templates, frameworks, and libraries to make your website development process easier/faster. Refer to our resources page for more information.
 
+Github Items
+[10 marks (1 mark each)] Write, complete and merge at least 10 github issues using branches and pull requests. These issues must have:
+Description of the issue, including acceptance criteria or definition of what "done" means
+Assignees (you can assign yourself)
+Labels (Create at least 3 new labels for your repo)
+Milestone (Create a milestone for your git repo and use it in your github issues)
+Project (Create a github project via the Projects tab on your repo and use it in your github issues)
+[1 mark] Git repo has a License associated with it (MIT, Apache, etc.) and you've provided an explanation of why you chose that license
+[6 marks] Website is deployed and accessible with Github Pages
+Github Etiquette
+As you work on your mini-project, you should be making regular commits to your website repository. Each commit should have a meaningful message that describes what you did. You are graded on your use of git, including commit messages. Commit messages that do not provide a meaningful description of the changes made will result in a deduction of 1% marks, each.
 
-More detailed submission instructions can be found via the [lab page](https://parsa-rajabi.github.io/CMPT-276/#/labs).
-
-## Task 1: Website Wireframe
-
-Include screenshots of your website wireframe here. Make sure the wireframe is clear and easy to understand/read. To compliment your wireframes, describe the layout and how the elements are organized. Screenshots that are blurry or hard to read will be penalized. 
-
-In addition to the screenshots, you can also a link to your wireframe file (if you used an online tool to create it). Make sure the link is accessible to the teaching team (check using an incognito window). This is not a replacement for the screenshots, but an additional resource for the teaching team to understand your wireframe.
-
-
-## Task 2: Follow-up Questions
-
-For this task, please include your answers for the questions described in [mini-project instructions](Mini-project.md):
-
-### Q1
-
-[Insert answer here]
-
-### Q2
-
-[Insert answer here]
-
-### Q3
-
-[Insert answer here]
-
-### Q4
-
-[Insert answer here]
-
-### Q5
-
-[Insert answer here]
-
-### Q6
-
-[Insert answer here]
-
-## Task 3: Github Video
-
-For this task, please include your answers for the questions described in [mini-project instructions](Mini-project.md):
-
-### Q1
-
-[Insert answer here]
-
-### Q2
-
-[Insert answer here]
-
-### Q3
-
-#### 3a
-
-[Insert answer here]
-
-#### 3b
-
-[Insert answer here]
-
-#### 3c
-
-[Insert answer here]
+For this mini-project, we expect to see a minimum of 30 meaningful commits (total) to the website repository (on average, this translates to ~3 commits per each issue/branch). You should break up your work into small, manageable tasks and commit your changes as you complete each task. Repositories with less than the specified number of commits will be penalized with a deduction of 1% for each missing commit.
