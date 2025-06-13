@@ -1,5 +1,6 @@
 # Mini-Project (45 marks)
-
+🌐 Live Site
+Visit the live site [here](https://ricky-t1.github.io/)
 
 
 [17 marks total] Website Elements (refer to below for more details)
