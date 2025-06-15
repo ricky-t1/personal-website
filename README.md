@@ -5,8 +5,10 @@ Website Rubric
 🌐 Live Site
 Visit the live site [here](https://ricky-t1.github.io/)
 
+Wireframe:
+![wireframe](wirefram.pdf)
+The navigation bar is in a fixed position, that allows users to jump to te beginning of different sections: hobbies, about me, and education using anchor links that scroll the page. each section is divided by horizonal lines and labeled with bold headings. its concent placed in a two column layout with text paragraph on left or right and an image block that accompanies the opposite side. footer includes links presented as buttons keeping resources easily accessible and to show that users have scrolled to the absolute bottom.
 
->>>>>>> setup
 [17 marks total] Website Elements (refer to below for more details)
 [17 marks total] Github items (refer to below for more details)
 [4 marks total] Follow-up questions
@@ -24,16 +26,7 @@ Website Elements
 Out of Scope
 While this is a great opportunity to learn new technologies, please note that the following are out of scope for this mini-project:
 
-Responsive design (your website should be accessible on a desktop browser only) e.g. no mobile or tablet support
-SEO optimization
-Web analytics
-Custom domain
-Database integration
-User authentication
-Server-side scripting
-Any other advanced features that are not covered in this course
-Acceptable Technologies for this Mini-Project
-I encourage you to use this opportunity to modify existing templates, frameworks, and libraries to make your website development process easier/faster. Refer to our resources page for more information.
+
 
 Github Items
 [10 marks (1 mark each)] Write, complete and merge at least 10 github issues using branches and pull requests. These issues must have:
