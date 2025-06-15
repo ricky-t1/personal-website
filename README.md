@@ -6,7 +6,7 @@ Website Rubric
 Visit the live site [here](https://ricky-t1.github.io/)
 
 Wireframe:
-![wireframe](wirefram.pdf)
+![wireframe](wireframe.pdf)
 The navigation bar is in a fixed position, that allows users to jump to te beginning of different sections: hobbies, about me, and education using anchor links that scroll the page. each section is divided by horizonal lines and labeled with bold headings. its concent placed in a two column layout with text paragraph on left or right and an image block that accompanies the opposite side. footer includes links presented as buttons keeping resources easily accessible and to show that users have scrolled to the absolute bottom.
 
 [17 marks total] Website Elements (refer to below for more details)
