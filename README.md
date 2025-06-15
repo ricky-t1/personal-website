@@ -1,88 +1,68 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19660274&assignment_repo_type=AssignmentRepo)
+
+Website Rubric
+=======
 # Mini-Project (45 marks)
+🌐 Live Site
+Visit the live site [here](https://ricky-t1.github.io/)
 
-[View Instructions Here](Mini-project.md)
+Wireframe:
+![wireframe](wirefram.pdf)
+The navigation bar is in a fixed position, that allows users to jump to te beginning of different sections: hobbies, about me, and education using anchor links that scroll the page. each section is divided by horizonal lines and labeled with bold headings. its concent placed in a two column layout with text paragraph on left or right and an image block that accompanies the opposite side. footer includes links presented as buttons keeping resources easily accessible and to show that users have scrolled to the absolute bottom.
 
-[How to use Github / How to submit](https://parsa-rajabi.github.io/CMPT-276/#/labs?id=github-classroom)
+[17 marks total] Website Elements (refer to below for more details)
+[17 marks total] Github items (refer to below for more details)
+[4 marks total] Follow-up questions
+[7 marks total] Github Video + Questions
+Website Elements
 
-For this lab, you will include all of your "answers" in this README file. Make sure to cite any sources you use. 
-
-## Task 0: Declare your AI Usage
-
-After you completed this lab, make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to this repository and include the link to PDF in this README file. Note, you must submit this form regardless if you use AI or not. Failure to submit this form will be considered a violation of AI course policy. More details about the AI-usage course policy can be found [here](https://parsa-rajabi.github.io/CMPT-276/#/ai-policy).
-
-[Link to AI Usage Disclosure MS Form](https://parsa-rajabi.github.io/CMPT-276/#/ai-policy?id=disclosure-of-ai-use)
-
-- You will need to log in with your SFU email to access the form.
-
-Name the file in the following format: 
-
-`Mini_Project_AI_Declaration_FirstName_LastName_StudentID.pdf`
-
-Example (Mini Project):
-
-`Mini_Project_AI_Declaration_Parsa_Rajabi_123456789.pdf`
-
-
-More detailed submission instructions can be found via the [lab page](https://parsa-rajabi.github.io/CMPT-276/#/labs).
-
-## Task 1: Website Wireframe
-
-Include screenshots of your website wireframe here. Make sure the wireframe is clear and easy to understand/read. To compliment your wireframes, describe the layout and how the elements are organized. Screenshots that are blurry or hard to read will be penalized. 
-
-In addition to the screenshots, you can also a link to your wireframe file (if you used an online tool to create it). Make sure the link is accessible to the teaching team (check using an incognito window). This is not a replacement for the screenshots, but an additional resource for the teaching team to understand your wireframe.
+[5 marks] Website's wireframe is organize, easy to understand and the provided description matches the wireframe
+[1 mark] Website includes a bio/overview
+[1.5 marks (0.25 each)] Website includes at least 6 hyperlinks to external websites
+[5 marks] Website adheres to all 10 usability heuristics (Nielsen's 10 Usability Heuristics)
+[1 mark] Website has a custom favicon
+[1.5 marks (0.5 mark each)] Website has at least 3 separate sections/tabs with information
+[1.5 marks (0.5 mark each)] Website has at least 3 images with appropriate alt text
+[0.5 mark] Website content is engaging and free of spelling/grammar errors
+Out of Scope
+While this is a great opportunity to learn new technologies, please note that the following are out of scope for this mini-project:
 
 
-## Task 2: Follow-up Questions
 
-For this task, please include your answers for the questions described in [mini-project instructions](Mini-project.md):
+Github Items
+[10 marks (1 mark each)] Write, complete and merge at least 10 github issues using branches and pull requests. These issues must have:
 
-### Q1
 
-[Insert answer here]
+[5 marks] Website's wireframe is organize, easy to understand and the provided description matches the wireframe
 
-### Q2
+[1 mark] Website includes a bio/overview
 
-[Insert answer here]
+[1.5 marks (0.25 each)] Website includes at least 6 hyperlinks to external websites
 
-### Q3
+[5 marks] Website adheres to all 10 usability heuristics (Nielsen's 10 Usability Heuristics)
 
-[Insert answer here]
+[1 mark] Website has a custom favicon
 
-### Q4
+[1.5 marks (0.5 mark each)] Website has at least 3 separate sections/tabs with information
 
-[Insert answer here]
+[1.5 marks (0.5 mark each)] Website has at least 3 images with appropriate alt text
 
-### Q5
+[0.5 mark] Website content is engaging and free of spelling/grammar errors
 
-[Insert answer here]
+Github Items
 
-### Q6
+[10 marks (1 mark each)] Write, complete and merge at least 10 github issues using branches and pull requests. 
+These issues must have:
 
-[Insert answer here]
+Description of the issue, including acceptance criteria or definition of what "done" means
+Assignees (you can assign yourself)
+Labels (Create at least 3 new labels for your repo)
+Milestone (Create a milestone for your git repo and use it in your github issues)
+Project (Create a github project via the Projects tab on your repo and use it in your github issues)
+<
+[1 mark] Git repo has a License associated with it (MIT, Apache, etc.) and you've provided an explanation of why you chose that license
+[6 marks] Website is deployed and accessible with Github Pages
+Github Etiquette
+As you work on your mini-project, you should be making regular commits to your website repository. Each commit should have a meaningful message that describes what you did. You are graded on your use of git, including commit messages. Commit messages that do not provide a meaningful description of the changes made will result in a deduction of 1% marks, each.
 
-## Task 3: Github Video
+For this mini-project, we expect to see a minimum of 30 meaningful commits (total) to the website repository (on average, this translates to ~3 commits per each issue/branch). You should break up your work into small, manageable tasks and commit your changes as you complete each task. Repositories with less than the specified number of commits will be penalized with a deduction of 1% for each missing commit.
 
-For this task, please include your answers for the questions described in [mini-project instructions](Mini-project.md):
-
-### Q1
-
-[Insert answer here]
-
-### Q2
-
-[Insert answer here]
-
-### Q3
-
-#### 3a
-
-[Insert answer here]
-
-#### 3b
-
-[Insert answer here]
-
-#### 3c
-
-[Insert answer here]
