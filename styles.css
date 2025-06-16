@@ -11,7 +11,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: black;
+  background-color: #708090;
   color: white;
   line-height: 1.6;
   margin: 0;
@@ -45,4 +45,44 @@ p {
   max-width: 700px;
   margin: 0 auto;
   font-size: 1rem;
+}
+
+.navbar {
+  background-color: white;
+  color: #696969;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  border-bottom: 2px solid black;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-left a {
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #696969;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  
+}
+
+.contact-link {
+  margin-left: 10px;
+  text-decoration: none;
+  color: #696969;
+  font-weight: bold;
+
 }
