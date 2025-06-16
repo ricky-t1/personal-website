@@ -1,6 +1,3 @@
-
-
-=======
 # Ricky-t1 Personal Website
 🌐 Live Site
 Visit the live site [here](https://ricky-t1.github.io/)
