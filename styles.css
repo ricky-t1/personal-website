@@ -79,10 +79,40 @@ p {
   
 }
 
+.navbar .logo-button{
+    margin-left: 20px;
+}
+
 .contact-link {
   margin-left: 10px;
   text-decoration: none;
   color: #696969;
   font-weight: bold;
 
+}
+.footer {
+  background-color: white;
+  color: black;
+  padding: 30px 20px;
+  text-align: center;
+  border-top: 2px solid black;
+}
+
+.footer p {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+.footer .socials {
+  margin-top: 10px;
+}
+
+.footer .socials a {
+  margin: 0 15px;
+  display: inline-block;
+}
+
+.footer .icon {
+  width: 30px;
+  vertical-align: middle;
 }
